@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**goodbyehome/goodbyehome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  
+![](https://komarev.com/ghpvc/?username=goodbyehome&color=d9851e&abbreviated=true&style=flat-square&label=+money+stolen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ︵︵︵
+  
+ <img src="https://files.catbox.moe/lw3xd6.jpg" width="540" height="400" alt="No Home">
+
+  ‿‿‿
+
+  
+<p align="center"> 너 나처럼 되고 있지 않니,해준? </p> 
+<p align="center">   ⠀⠀sign⠀⠀ <a href="https://hiraethic.atabook.org/">ata</a>  ⠀⠀ ⠀ ⠀ ⠀(ᵔ⩊ᵔ) ⠀ ⠀ ⠀⠀     ⠀  ⠀  <a href="https://rentry.co/lovewren">rentry</a> ⠀ ｡｡｡  </p>
+ 
